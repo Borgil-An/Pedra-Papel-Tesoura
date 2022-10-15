@@ -40,7 +40,7 @@ int main(void){
    if(jogada==2 && jogadapc==4){
       printf ("Você perdeu!\n");
    }
-   if(jogada==1 && jogadapc==5){
+   if(jogada==2 && jogadapc==5){
       printf ("Você venceu!\n");
    }
    if(jogada==3 && jogadapc==1){
