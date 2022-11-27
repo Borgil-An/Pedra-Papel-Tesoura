@@ -93,5 +93,6 @@ int main(void){
 
    printf ("Deseja continuar jogando?\n 1)Sim\n2)Não\n");
      scanf ("%d",&c);
-  }}while (c==1);
+  }while(c==1);
+}
 }
