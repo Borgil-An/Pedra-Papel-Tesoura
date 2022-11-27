@@ -67,7 +67,7 @@ int main(void){
    if(jogada==4 && jogadapc==3){
       printf ("Você perdeu!\n");
    }
-   if(jogada==4 && jogadapc==4{
+   if(jogada==4 && jogadapc==4){
       printf ("Empate!\n");
    }
    if(jogada==4 && jogadapc==5){
@@ -93,5 +93,5 @@ int main(void){
 
    printf ("Deseja continuar jogando?\n 1)Sim\n2)Não\n");
      scanf ("%d",&c);
-  }while (c==1);
+  }}while (c==1);
 }
